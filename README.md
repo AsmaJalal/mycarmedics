@@ -7,7 +7,7 @@ Restores clarity to headlights that have become foggy, discolored, or yellowed d
 
 
 # GIF IMAGE
-![Image](https://github.com/AsmaJalal/mycarmedics/blob/main/MyCarmedics_website_MERN_STACK/screenshots/MyCarmedicswebsite.gif?)
+![Image](https://github.com/AsmaJalal/mycarmedics/blob/main/MyCarmedics_website_MERN_STACK/screenshots/MyCarmedicswebsite.gif?compress=1&resize=1024x700)
 
 
 # screen shots
@@ -45,3 +45,9 @@ Restores clarity to headlights that have become foggy, discolored, or yellowed d
 ![Image](https://github.com/AsmaJalal/mycarmedics/blob/main/MyCarmedics_website_MERN_STACK/screenshots/screenshot%2016.png?)
 
 # Mobile App React Native🌟
+
+Increase your car
+Value, Safety and Appearance
+Restores clarity to headlights that have become foggy, discolored, or yellowed due to sun damage and continuous exposure to environmental factors. This service typically takes less than an hour to complete.
+
+![Image](https://github.com/AsmaJalal/mycarmedics/blob/main/MyCarmedicsMobile_react_native/screenshots/1%20(1).png?compress=1&resize=400x600)
