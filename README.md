@@ -6,7 +6,7 @@ Restores clarity to headlights that have become foggy, discolored, or yellowed d
 # mycarmedics website screen shots🌟
 
 
-<img src="https://github.com/AsmaJalal/mycarmedics/blob/main/MyCarmedics_website_MERN_STACK/screenshots/MyCarmedicswebsite.gif" alt="App Screenshot" width="1000" height="500" />
+<img src="https://github.com/AsmaJalal/mycarmedics/blob/main/MyCarmedics_website_MERN_STACK/screenshots/MyCarmedicswebsite.gif" alt="App Screenshot" width="1024" height="450" />
 
 # GIF IMAGE👇
 ![Image](https://github.com/AsmaJalal/mycarmedics/blob/main/MyCarmedics_website_MERN_STACK/screenshots/MyCarmedicswebsite.gif?compress=1&resize=300x225)
